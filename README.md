@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @honeynbt
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me https://www.linkedin.com/in/abhishek-kumar-16a917258
 
 <!---
